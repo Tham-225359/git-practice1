@@ -1,3 +1,1 @@
-# Git Practice
-
-Giới thiệu: Tôi là <Nguyen Ngoc Tham>, MSSV <225359>.
+Đây là README được chỉnh sửa từ nhánh conflict-demo.
