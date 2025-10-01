@@ -1,0 +1,14 @@
+  log/ 
+  *.log 
+  EOF 
+  
+
+
+
+
+
+echo "log/" > .gitignore
+echo "*.log" >> .gitignore
+
+[200~log/
+*.log
